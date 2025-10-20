@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-<!--
 # 👋 Hi, I’m Gerardo
 
 - 👀 I’m interested in learning C and C++
@@ -10,5 +8,8 @@
 
 ---
 
+
+
+<!--
 
 -->
